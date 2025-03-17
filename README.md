@@ -35,7 +35,7 @@
 <p align="left">👋 Hi, I’m Abishek Challa, a Master’s student in data science with a Bachelor’s in Computer Science. <br><br>After two years as a software engineer in India, I moved to the US for my Master's to dive deeper into data science fields. 🚀 I’m excited to craft impactful projects that bridge data and tech innovation, and I’m eager to take my skills into the industry.<br><br>Check out my repos to see what I’m working on! 🔍</p>
 
 ###
-
+---
 <h3 align="left">🛠 Languages, Tools, and Technologies</h3>
 
 <table>
