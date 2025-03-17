@@ -84,6 +84,34 @@
 
 ###
 
+---
+### 📢 Find me elsewhere
+<p align="left">
+
+  <a href="https://leetcode.com/u/Abishek_coder/">
+  <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+
+  <a href="https://www.hackerrank.com/profile/abishek_coder">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/abishek_coder">
+    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  
+  
+  <a href="https://www.geeksforgeeks.org/user/abhishekchalla619/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="40" alt="geeksforgeeks" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+###
+---
+
 <h3 align="left">🔥 My Stats:</h3>
 
 <div align="center">
